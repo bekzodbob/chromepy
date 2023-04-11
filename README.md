@@ -6,7 +6,7 @@ For learning purposes only. The author do not reponsible for your stupid moves.
 
 
 # USAGE
-- Get telegram bot token from BotFather 
+- Get telegram bot token from BotFather, and start the bot from your account to which you want to recieve stollen session
 > If you're not stupid you will come up with idea to check youtube how to do it
 - Put your token on the variable TELEGRAM_TOKEN
 > TELEGRAM_TOKEN='123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11'
